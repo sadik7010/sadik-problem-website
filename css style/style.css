@@ -8,3 +8,8 @@ p{
     /* text-size-adjust: 100px; */
     text-align: center;
 }
+div{
+
+    background-color: sienna;
+    border-radius: 10px;
+}
