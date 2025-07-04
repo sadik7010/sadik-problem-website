@@ -3,5 +3,7 @@ h3{
 }
 p{
     /* text-decoration: aqua; */
-    background-color: rebeccapurple;
+    /* background-color: rebeccapurple; */
+    /* text-transform: lowercase; */
+    /* text-size-adjust: 100px; */
 }
