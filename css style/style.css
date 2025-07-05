@@ -10,6 +10,15 @@ p{
 }
 div{
 
-    background-color: sienna;
-    border-radius: 10px;
+    /* background-color: sienna; */
+    /* border-radius: 10px; */
+}
+.faisal{
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: burlywood; */
+    
+}
+#eid{
+    /* margin: 30px 40px 60px; */
+    background-color: 10px;
 }
